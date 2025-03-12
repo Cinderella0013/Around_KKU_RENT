@@ -19,6 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "AROUND KKU RENT"
+rootProject.name = "KKUrent"
 include(":app")
- 
